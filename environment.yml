@@ -1,7 +1,8 @@
 name: surveys
 dependencies:
 - python=3
-- bokeh
+- anaconda
 - pip
 - pip:
     - whatever-forever
+    - fz
