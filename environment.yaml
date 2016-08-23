@@ -1,0 +1,6 @@
+name: surveys
+dependencies:
+- bokeh
+- pip
+- pip:
+    - whatever-forever
